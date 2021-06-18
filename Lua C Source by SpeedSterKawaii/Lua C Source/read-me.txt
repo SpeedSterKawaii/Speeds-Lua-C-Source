@@ -1,0 +1,23 @@
+Lua C dll source by speedsterkawaii
+
+rakion fucked me in my bathroom.
+icememe likes to suck my icy dick.
+
+MUST KNOW LUA C TO MAKE COMMANDS AND PARSER.
+
+support:
+new thread.
+pcall
+getfield aka getglobal
+pushstring
+setfield
+pushvalue
+pushnumber
+tolstring
+
+commands:
+destroy shit.
+walkspeed.
+set health.
+gravity.
+get username but needs string.

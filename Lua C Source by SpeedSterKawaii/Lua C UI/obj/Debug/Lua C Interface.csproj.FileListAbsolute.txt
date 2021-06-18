@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Lua C Source by SpeedSterKawaii\Lua C UI\bin\Debug\Lua C UI.exe.config
+C:\Users\user\source\repos\Lua C Source by SpeedSterKawaii\Lua C UI\bin\Debug\Lua C UI.exe
+C:\Users\user\source\repos\Lua C Source by SpeedSterKawaii\Lua C UI\bin\Debug\Lua C UI.pdb
+C:\Users\user\source\repos\Lua C Source by SpeedSterKawaii\Lua C UI\obj\Debug\Lua C Interface.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Lua C Source by SpeedSterKawaii\Lua C UI\obj\Debug\Lua_C_UI.LuaC_Form_UI.resources
+C:\Users\user\source\repos\Lua C Source by SpeedSterKawaii\Lua C UI\obj\Debug\Lua_C_UI.Properties.Resources.resources
+C:\Users\user\source\repos\Lua C Source by SpeedSterKawaii\Lua C UI\obj\Debug\Lua C Interface.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Lua C Source by SpeedSterKawaii\Lua C UI\obj\Debug\Lua C Interface.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Lua C Source by SpeedSterKawaii\Lua C UI\obj\Debug\Lua C UI.exe
+C:\Users\user\source\repos\Lua C Source by SpeedSterKawaii\Lua C UI\obj\Debug\Lua C UI.pdb
